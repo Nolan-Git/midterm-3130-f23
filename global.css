@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-istok-web: "Istok Web";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+
+  /* Colors */
+  --color-gray: rgba(0, 0, 0, 0.5);
+  --color-black: #000;
+}

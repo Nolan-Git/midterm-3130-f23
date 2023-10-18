@@ -1,0 +1,291 @@
+.seee-1-icon,
+.shoesss-1-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.seee-1-icon {
+  top: 3px;
+  left: 1227px;
+  border-radius: 66px;
+  width: 203px;
+  height: 80px;
+}
+.shoesss-1-icon {
+  top: 0;
+  left: 27px;
+  width: 117px;
+  height: 81px;
+}
+.kids,
+.men,
+.new,
+.women {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 198px);
+  display: inline-block;
+  width: 78px;
+  height: 36px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.kids,
+.men,
+.women {
+  left: calc(50% - 98px);
+  width: 98px;
+  height: 30px;
+}
+.kids,
+.women {
+  left: calc(50% - 0px);
+  width: 114px;
+}
+.kids {
+  left: calc(50% + 136px);
+}
+.frame,
+.frame1 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+  overflow: hidden;
+}
+.frame1 {
+  top: 3px;
+  background-color: #d9d9d9;
+  height: 81px;
+}
+.frame {
+  top: -3px;
+  height: 84px;
+}
+.frame3,
+.glide-with-the {
+  position: absolute;
+  top: 0;
+  height: 58px;
+}
+.glide-with-the {
+  left: 0;
+  display: inline-block;
+  width: 585px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.frame3 {
+  left: 368px;
+  width: 636px;
+  overflow: hidden;
+  font-size: 40px;
+}
+.basketball-shoes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: underline;
+}
+.show1-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 418px;
+  height: 299px;
+  object-fit: cover;
+}
+.available-sizes,
+.baller-4-red {
+  position: absolute;
+  top: 299px;
+  left: 0;
+}
+.available-sizes {
+  top: 334px;
+  text-decoration: underline;
+}
+.div,
+.m-10m-11m {
+  position: absolute;
+  top: 299px;
+  left: 359px;
+  color: var(--color-gray);
+}
+.m-10m-11m {
+  top: 334px;
+  left: 178px;
+  display: inline-block;
+  width: 223px;
+  height: 35px;
+}
+.bb1-1-icon {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 408px;
+  height: 299px;
+  object-fit: cover;
+}
+.frame6,
+.frame7 {
+  left: 0;
+  width: 418px;
+  overflow: hidden;
+}
+.frame7 {
+  position: absolute;
+  top: 44px;
+  height: 369px;
+}
+.frame6 {
+  top: 0;
+  height: 413px;
+}
+.div1,
+.frame6,
+.frame8 {
+  position: absolute;
+}
+.div1 {
+  top: 299px;
+  left: 369px;
+  color: var(--color-gray);
+}
+.frame8 {
+  top: 44px;
+  left: 472px;
+  width: 418px;
+  height: 369px;
+  overflow: hidden;
+}
+.frame10,
+.hooper-3-bred {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame10 {
+  top: 308px;
+  width: 158px;
+  height: 70px;
+  overflow: hidden;
+}
+.available-sizes2 {
+  position: absolute;
+  top: 343px;
+  left: 0;
+  text-decoration: underline;
+}
+.frame11,
+.m-8m-11m {
+  position: absolute;
+  color: var(--color-gray);
+}
+.m-8m-11m {
+  top: 343px;
+  left: 178px;
+  display: inline-block;
+  width: 223px;
+  height: 35px;
+}
+.frame11 {
+  top: 308px;
+  left: 369px;
+  width: 49px;
+  height: 70px;
+  overflow: hidden;
+}
+.jlow-2-icon {
+  width: 418px;
+  height: 308px;
+  object-fit: cover;
+}
+.bb2-1-icon,
+.frame12,
+.jlow-2-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame12 {
+  width: 418px;
+  height: 378px;
+  overflow: hidden;
+}
+.bb2-1-icon {
+  width: 410px;
+  height: 308px;
+  object-fit: cover;
+}
+.frame13,
+.frame4,
+.frame5,
+.frame9 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 410px;
+  height: 378px;
+  overflow: hidden;
+}
+.frame4,
+.frame5,
+.frame9 {
+  top: 35px;
+  left: 944px;
+  width: 418px;
+}
+.frame4,
+.frame5 {
+  top: 0;
+  left: 2px;
+  width: 1362px;
+  height: 413px;
+}
+.frame4 {
+  top: 495px;
+  left: 4px;
+  width: 1364px;
+}
+.div5,
+.jordan-1-low {
+  position: absolute;
+  top: 308px;
+  left: 0;
+}
+.div5 {
+  left: 369px;
+  color: var(--color-gray);
+}
+.frame14,
+.frame15,
+.frame2 {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 1362px;
+  height: 413px;
+  overflow: hidden;
+}
+.frame14,
+.frame2 {
+  top: 65px;
+  left: 0;
+  width: 1372px;
+}
+.frame2 {
+  top: 109px;
+  left: 34px;
+  height: 908px;
+  font-size: var(--font-size-5xl);
+}
+.desktop-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-istok-web);
+}
